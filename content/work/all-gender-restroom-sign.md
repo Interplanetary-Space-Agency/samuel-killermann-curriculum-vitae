@@ -1,5 +1,5 @@
 ---
-title: "All Gender Restroom Sign"
+title: "Test"
 subtitle: "AKA my doodle of a toilet that became A Thing"
 date: 2014-04-17
 emoji: "🚽"

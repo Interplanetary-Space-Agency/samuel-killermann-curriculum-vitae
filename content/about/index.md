@@ -9,7 +9,7 @@ hide_meta: true
 color: "#af6ee2"
 ---
 
-The New York Times said, "\[Killermann's] perfectly O.K. with being known as the toilet sign guy." And it's true. I am.
+TEST, "\[Killermann's] perfectly O.K. with being known as the toilet sign guy." And it's true. I am.
 
 [They said that](https://www.nytimes.com/2015/11/08/style/transgender-restroom-all-gender.html) because of the [all-gender restroom sign](/work/all-gender-restroom-sign/) I designed, that has been spread all over the world, and is now in use in thousands of communities. Truthfully, that project was an outlier, more than represetative of _what I do_. I'm not a "designer."
 
