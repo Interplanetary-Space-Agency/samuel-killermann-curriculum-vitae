@@ -1,9 +1,9 @@
 ---
-title: "The Genderbread Person"
+title: "This is a test to see"
 date: 2011-11-07
 emoji: "🙂"
 author: "Sam Killermann"
-blurb: "A tool that’s helped millions of people understand the complexity of gender"
+blurb: "Where this will appear."
 link: "http://itspronouncedmetrosexual.com/2011/11/breaking-through-the-binary-gender-explained-using-continuums/"
 og_image: "/img/work/2011-genderbread-person-sam-killermann-version-1.jpg"
 tags: ["Gender", "Sexuality", "Social Justice"]
